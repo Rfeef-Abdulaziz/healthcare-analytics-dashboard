@@ -32,6 +32,15 @@ Built the reference page documenting the dashboard's full measure library.
 - Catalogued 15 KPIs with their exact DAX formulas (e.g. AVERAGE, SUM, COUNTROWS, DATEDIFF) and matching visualization type
 - Ensures the dashboard is auditable and reproducible by any analyst reviewing the logic behind each metric
 
+Overall Project Insights
+Combining findings across all 6 pages, the dashboard tells a consistent story about hospital operations:
+
+- Financially, revenue is stable and well-diversified — no single insurance provider or hospital dominates billing, which reduces dependency risk across the network
+- Demographically, the patient base is balanced by gender with an average age of 52, suggesting the hospital network serves a broad, general population rather than a specialized age group
+- Operationally, admissions show seasonal fluctuation (notably dropping in February), which could inform staffing and resource planning
+- Clinically, the dashboard tracks top medical conditions and test outcomes, helping identify which conditions drive the highest patient volume and cost
+- Together, the 6 pages move from a high-level executive summary down to granular, auditable KPI definitions — giving both leadership and analysts the right level of detail for their needs
+  
 Dashboard Pages
 1. Executive Overview
 2. Financial Insights
