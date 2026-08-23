@@ -17,7 +17,7 @@ Built the landing page summarizing overall hospital performance.
 ## 2. Financial Insights
 Built the revenue and cost breakdown page.
 
-![Financial Insights](Financial-Insights.png)
+![Financial Insights](Financil-Insights.png)
 
 - Billing is fairly evenly distributed across the top 5 insurance providers (Cigna, Medicare, Blue Cross, UnitedHealthcare, Aetna), each around 0.28–0.29bn — no single provider dominates
 - Johnson PLC is the top-billing hospital at 1.08M, with billing across the top 10 hospitals ranging narrowly between 0.81M–1.08M
